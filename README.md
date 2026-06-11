@@ -15,7 +15,7 @@ Comparar el desempeño de distintos algoritmos de Machine Learning.
 Crear segmentos de clientes mediante clustering.
 Generar recomendaciones para mejorar la retención.
 
-Herramientas utilizadas:
+🛠️ Herramientas utilizadas:
 
 Python,
 Pandas,
@@ -26,9 +26,9 @@ Scikit-Learn,
 SciPy,
 Jupyter Notebook
 
-Metodología:
+🔍 Metodología:
 
-Preparación y exploración de datos (EDA)
+1.- Preparación y exploración de datos (EDA)
 
 Se realizó una revisión completa del conjunto de datos para:
 
@@ -39,11 +39,11 @@ Comparar clientes que permanecieron activos contra aquellos que cancelaron su me
 
 También se construyeron histogramas y distribuciones para visualizar diferencias entre ambos grupos.
 
-Análisis de correlación
+2.- Análisis de correlación:
 
 Se generó una matriz de correlación para identificar relaciones entre las variables del negocio y detectar factores asociados con la cancelación de clientes.
 
-Modelo predictivo de churn
+3.- Modelo predictivo de churn
 
 Se construyeron modelos de clasificación binaria para predecir si un cliente cancelaría su membresía el mes siguiente.
 
@@ -58,7 +58,7 @@ Accuracy
 Precision
 Recall
 
-Segmentación de clientes
+4.- Segmentación de clientes
 
 Se aplicaron técnicas de aprendizaje no supervisado para identificar grupos de clientes con características similares.
 
@@ -70,7 +70,7 @@ Aplicación de K-Means.
 Análisis de características promedio por clúster.
 Evaluación de la tasa de cancelación por segmento.
 
-Principales hallazgos:
+### Principales hallazgos:
 
 El análisis mostró que los clientes con menor riesgo de cancelación suelen presentar:
 
@@ -81,23 +81,10 @@ Mayor interacción con actividades grupales.
 
 Por otro lado, los clientes con baja asistencia y contratos cortos presentaron mayores tasas de abandono.
 
-Recomendaciones:
+### Recomendaciones:
 
 Incentivar contratos de largo plazo.
 Diseñar campañas de seguimiento para clientes con baja frecuencia de asistencia.
 Promover actividades grupales para aumentar el compromiso.
 Implementar programas de fidelización para clientes con mayor riesgo de cancelación.
 Utilizar el modelo predictivo para detectar usuarios en riesgo antes de que abandonen el servicio.
-
-Habilidades demostradas:
-
-Análisis Exploratorio de Datos (EDA)
-Limpieza y preparación de datos
-Visualización de datos
-Machine Learning Supervisado
-Clasificación Binaria
-Predicción de Churn
-Segmentación de Clientes
-Clustering (K-Means)
-Interpretación de métricas de modelos
-Generación de recomendaciones de negocio
