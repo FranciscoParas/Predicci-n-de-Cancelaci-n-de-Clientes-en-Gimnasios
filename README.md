@@ -1,4 +1,4 @@
-# Predicción de Cancelación de Clientes en Gimnasios (Churn Analysis)
+# Predicción de Cancelación de Clientes en Gimnasios 
 
 ### Descripción del proyecto
 
